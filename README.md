@@ -1,6 +1,7 @@
 ### Hi there, we are fourhumans 👋
 
 ## Currently
+
 - ⌨ Coding the website
-- 📝 Getting good marks
+- 🛏 Sleeping
 - 🎡 Doing crucial things
