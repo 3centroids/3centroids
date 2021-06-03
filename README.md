@@ -3,5 +3,5 @@
 ## Currently
 
 - ⌨ Coding the website
-- 🛏 Sleeping
 - 🎡 Doing crucial things
+- 🛏 Sleeping
