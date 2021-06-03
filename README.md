@@ -1,7 +1,6 @@
-### Hi there, We are fourhumans 👋
+### Hi there, we are fourhumans 👋
 
-## Our tasks
-
+## Currently
 - ⌨ Coding the website
 - 📝 Getting good marks
 - 🎡 Doing crucial things
