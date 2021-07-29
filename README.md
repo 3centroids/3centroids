@@ -1,7 +1,9 @@
-### Hi there, we are fourhumans 👋
+### Hey there, Michael here 👋
 
-## Currently
+Currently, I'm looking for an inspiring project to start creating. 
 
-- ⌨ Coding the website
-- 🎡 Doing crucial things
-- 🛏 Sleeping
+> “Do anything, but let it produce joy.”
+>
+> Walt Whitman
+
+🦄
