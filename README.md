@@ -5,10 +5,12 @@
 - simple OS
 - task app
 - virtual voice assistant
+- school website
 - Spanish word quiz
 - portfolio website 
 
-> “Do anything, but let it produce joy.” - Walt Whitman
+> “Do anything, but let it produce joy.”  
+\- Walt Whitman
 
 ```
 git init
