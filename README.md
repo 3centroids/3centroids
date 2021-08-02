@@ -3,6 +3,7 @@
 #### Projects and tasks you might see me doing:
 - 2d game with Lua and LÖVE
 - simple OS
+- face recognition app
 - task app
 - virtual voice assistant
 - school website
