@@ -1,6 +1,6 @@
 ### Hey there, Michael here 👋
 
-#### Projects and tasks you might see me doing:
+#### Projects and tasks you might see me working on:
 - 2d game with Lua and LÖVE
 - simple OS
 - face recognition app
