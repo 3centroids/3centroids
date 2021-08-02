@@ -4,6 +4,7 @@
 - 2d game with Lua and LÖVE
 - simple OS
 - task app
+- virtual voice assistant
 - Spanish word quiz
 - portfolio website 
 
