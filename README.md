@@ -1,3 +1,5 @@
+![OwO](https://github.com/fourhumans/fourhumans/actions/workflows/echo.yml/badge.svg)
+![OwO](https://img.shields.io/github/issues/fourhumans/fourhumans.svg)
 ### Hey there, Michael here 👋
 
 #### Projects and tasks you might see me working on:
